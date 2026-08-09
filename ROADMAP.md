@@ -13,11 +13,12 @@ Counts are reported after every expansion round.
 
 | | Words | Pages |
 |---|---|---|
-| **English** | 12,082 | **40** |
-| **Croatian** | 10,453 | **35** |
+| **English** | 17,149 | **58** |
+| **Croatian** | 14,615 | **49** |
 | Illustrations placed | 0 of 18 | — |
 
-**Chapters: 16.** Four parts.
+**Chapters: 16.** Four parts. **17 children's stories** — one after every chapter
+plus a closing one, in both languages.
 
 ---
 
@@ -30,6 +31,13 @@ conclusion. 12 chapters. EN 29 pages.
 **Round 2 — how cause-work works.** New Part II: effort and agency, the body as
 mechanism, microcosm and macrocosm with yoga as an ordering of causes, ritual and
 the meaning response. 4 chapters. EN 40 pages.
+
+**Round 3 — the second layer.** A therapeutic story for children after every chapter,
+built on the story-medicine principles: metaphor rather than instruction, feelings
+externalised into characters, the child in the story holding agency, and no stated
+moral. One continuous world across all seventeen — the valley, Mira, Tam, Vida the
+beekeeper, Nell the healer, Pim, Rook — so they can be read one a night and
+accumulate. The book now works on two minds at once. EN 58 pages.
 
 ---
 
@@ -114,7 +122,10 @@ domains would be repetition.
 ## Rules for every round
 
 1. Both languages, always, in the same commit.
-2. Every new chapter ends in a bottom line.
+2. Every new chapter ends in a bottom line **and a children's story**, in the same
+   valley, with the same cast, following the same rules: metaphor not instruction,
+   no stated moral, no shame, the child character has agency, and nothing frightening
+   is depicted literally.
 3. Every new chapter gets an illustration slot in `ILLUSTRATIONS.md`.
 4. Every empirical claim either carries a real source or is marked as contested.
 5. Page count reported after each round.
