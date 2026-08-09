@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="hr"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#0b0b0c">
+<title>Uzrok i simptom</title>
+<style>
+:root{--bg:#0b0b0c;--ink:#E8B15C;--txt:#d5d1c9;--dim:#8a847a;--line:#26241f;}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--txt);
+ font:17px/1.72 Georgia,"Times New Roman",serif}
+
+#gate{min-height:100vh;display:flex;align-items:center;justify-content:center;padding:24px}
+#gatebox{width:100%;max-width:320px;text-align:center}
+#gatebox h1{color:var(--ink);font-size:15px;font-weight:normal;letter-spacing:.18em;
+ text-transform:uppercase;margin:0 0 30px}
+input[type=password]{width:100%;padding:14px;background:transparent;color:var(--ink);
+ border:1px solid var(--line);border-radius:3px;font:17px Georgia,serif;text-align:center;outline:none}
+input[type=password]:focus{border-color:var(--ink)}
+#go{margin-top:12px;width:100%;padding:14px;background:transparent;color:var(--ink);
+ border:1px solid var(--ink);border-radius:3px;font:13px Georgia,serif;letter-spacing:.14em;
+ text-transform:uppercase;cursor:pointer}
+#remember{margin-top:18px;color:var(--dim);font-size:14px;display:flex;gap:9px;
+ align-items:center;justify-content:center;cursor:pointer;user-select:none}
+#remember input{accent-color:var(--ink);width:15px;height:15px}
+#err{margin-top:16px;color:#b4483c;font-size:14px;min-height:20px}
+
+#bar{display:none;position:sticky;top:0;z-index:10;background:var(--bg);
+ border-bottom:1px solid var(--line);padding:9px 16px;
+ justify-content:space-between;align-items:center}
+#langs{display:flex;gap:2px}
+.lang{padding:6px 13px;border:1px solid var(--line);background:transparent;color:var(--dim);
+ font:12px Georgia,serif;letter-spacing:.12em;cursor:pointer;border-radius:3px}
+.lang.on{color:var(--ink);border-color:var(--ink)}
+#lock{color:var(--dim);font:11px Georgia,serif;letter-spacing:.1em;text-transform:uppercase;
+ cursor:pointer;background:none;border:none;padding:6px}
+#lock:hover{color:var(--ink)}
+
+#doc{display:none;max-width:700px;margin:0 auto;padding:34px 22px 140px}
+#doc h1,#doc h2,#doc h3{color:var(--ink);font-weight:normal;line-height:1.28}
+#doc h1{font-size:28px;margin:46px 0 18px}
+#doc h1:first-child{margin-top:0}
+#doc h2{font-size:21px;margin:44px 0 14px;border-top:1px solid var(--line);padding-top:28px}
+#doc h3{font-size:17px;margin:30px 0 10px;color:#cba765}
+#doc p{margin:0 0 17px}
+#doc a{color:var(--ink)}
+#doc img{max-width:100%;height:auto;display:block;margin:26px 0}
+#doc hr{border:0;border-top:1px solid var(--line);margin:44px 0}
+#doc ul,#doc ol{padding-left:22px}
+#doc li{margin-bottom:9px}
+#doc blockquote{margin:24px 0;padding:12px 0 12px 18px;border-left:2px solid var(--ink);
+ color:#c8c2b6}
+#doc blockquote em{font-style:italic}
+#doc table{width:100%;border-collapse:collapse;margin:24px 0;font-size:14px;display:block;
+ overflow-x:auto;white-space:nowrap}
+#doc th,#doc td{border:1px solid var(--line);padding:8px 10px;text-align:left;vertical-align:top}
+#doc th{color:var(--ink);font-weight:normal}
+#doc code{background:#17161a;padding:2px 5px;border-radius:3px;font-size:14px}
+#doc em{color:#e4dfd4}
+#doc strong{color:#efe9dd}
+</style></head><body>
+
+<div id="gate"><div id="gatebox">
+  <h1>Uzrok i simptom</h1>
+  <input id="pw" type="password" autocomplete="current-password" placeholder="lozinka" autofocus>
+  <button id="go">Otvori</button>
+  <label id="remember"><input type="checkbox" id="rem" checked>zapamti me</label>
+  <div id="err"></div>
+</div></div>
+
+<div id="bar">
+  <div id="langs">
+    <button class="lang on" data-l="hr">HR</button>
+    <button class="lang" data-l="en">EN</button>
+  </div>
+  <button id="lock">lock</button>
+</div>
+<div id="doc"></div>
+
+<script>
+const D = __PAYLOAD__;
+const PKEY = 'cs.pass', LKEY = 'cs.lang';
+const b64 = s => Uint8Array.from(atob(s), c => c.charCodeAt(0));
+const $ = id => document.getElementById(id);
+let BOOK = null;
+
+async function decrypt(pw){
+  const base = await crypto.subtle.importKey('raw', new TextEncoder().encode(pw),
+    'PBKDF2', false, ['deriveKey']);
+  const key = await crypto.subtle.deriveKey(
+    {name:'PBKDF2', salt:b64(D.salt), iterations:D.iter, hash:'SHA-256'},
+    base, {name:'AES-GCM', length:256}, false, ['decrypt']);
+  const pt = await crypto.subtle.decrypt({name:'AES-GCM', iv:b64(D.iv)}, key, b64(D.ct));
+  return JSON.parse(new TextDecoder().decode(pt));
+}
+
+/* Both languages are decrypted once and held in memory, so switching is
+   instant: no reload, no network, no second key derivation. */
+function show(lang){
+  $('doc').innerHTML = BOOK[lang];
+  document.documentElement.lang = lang;
+  document.title = lang === 'hr' ? 'Uzrok i simptom' : 'Cause and Symptom';
+  document.querySelectorAll('.lang').forEach(b =>
+    b.classList.toggle('on', b.dataset.l === lang));
+  try{ localStorage.setItem(LKEY, lang); }catch(e){}
+}
+
+function reveal(book){
+  BOOK = book;
+  $('gate').style.display = 'none';
+  $('bar').style.display = 'flex';
+  $('doc').style.display = 'block';
+  let lang = 'hr';
+  try{ lang = localStorage.getItem(LKEY) || 'hr'; }catch(e){}
+  show(BOOK[lang] ? lang : 'hr');
+}
+
+async function attempt(pw, remember, silent){
+  if(!pw) return;
+  if(!silent) $('err').textContent = 'otvaram\u2026';
+  try{
+    const book = await decrypt(pw);
+    if(remember){ try{ localStorage.setItem(PKEY, pw); }catch(e){} }
+    reveal(book);
+  }catch(e){
+    if(!silent) $('err').textContent = 'pogre\u0161na lozinka';
+    try{ localStorage.removeItem(PKEY); }catch(e){}
+  }
+}
+
+$('go').onclick = () => attempt($('pw').value, $('rem').checked, false);
+$('pw').addEventListener('keydown', e => {
+  if(e.key === 'Enter') attempt($('pw').value, $('rem').checked, false);
+});
+document.querySelectorAll('.lang').forEach(b => {
+  b.onclick = () => { show(b.dataset.l); window.scrollTo(0,0); };
+});
+$('lock').onclick = () => {
+  try{ localStorage.removeItem(PKEY); }catch(e){}
+  location.reload();
+};
+
+(async () => {
+  let saved = null;
+  try{ saved = localStorage.getItem(PKEY); }catch(e){}
+  if(saved) await attempt(saved, true, true);
+})();
+</script></body></html>
