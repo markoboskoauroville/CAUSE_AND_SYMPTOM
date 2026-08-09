@@ -158,13 +158,136 @@ If any of these fails, the correct reading is not that the healing is deepening.
 
 ---
 
-# PART II — THE SAME PATTERN, ELSEWHERE
+# PART II — HOW CAUSE-WORK ACTUALLY WORKS
+
+Chapters 3 to 5 established that natural medicine is slow because it acts on the first link, and that the first link is a configuration only the person can change. That is a claim about *where* the work happens. This part is about *how* — by what mechanisms a configuration is actually altered, and why those mechanisms take the time they take.
+
+Nothing in this part requires an unknown energy or an unmeasured substance. That is deliberate. **An argument that survives without metaphysics cannot be dismissed by attacking the metaphysics** — and the traditions turn out to be describing ordinary processes in extraordinary language, which is a much stronger position than they are usually given credit for.
+
+---
+
+## Chapter 6. Effort as Medicine
+
+There is a proposition inside every traditional healing system, rarely stated outright: **the patient who invests their own energy is healed differently, and more durably, than the patient who receives a substance** — because the process of recovering is itself an education, and what has been learned cannot be withdrawn the way a prescription can.
+
+This is the most defensible single claim in the entire natural-medicine repertoire, and it has a substantial literature under names its proponents almost never use.
+
+**Mastery experience.** Self-efficacy — a person's belief in their capacity to affect their own condition — predicts adherence, persistence through setback, and outcome across an enormous range of chronic conditions. It is not merely correlated with recovery; it is a modifiable cause of it. And it is built above all by one thing: the direct experience of having done something difficult and succeeded. A pill provides no mastery experience. Twelve weeks of graded exercise provides one every session. **This is why the effort is not the price of the cure. The effort is part of the cure.**
+
+**Locus of control.** Interventions that place causal power outside the person train external locus of control: something is being done to me, by someone competent, elsewhere. Interventions requiring the person's action train internal locus. In chronic illness, internal locus predicts better self-management and better outcomes. This is the mechanistic content of the folk claim that *you healed yourself, so it stays healed.*
+
+**The learning curve, again.** Behaviour change is motor and cognitive learning, and it has the shape all learning has: slow, effortful and error-prone at first, then automatic. Chapter 4 used this to explain why the beginning feels worse. It also explains why the middle feels pointless — the plateau, where effort continues and visible progress stops, is a universal feature of skill acquisition and the point at which most people conclude the approach has failed. It has not failed. It is consolidating.
+
+**Identity, not task.** Durable change occurs when a behaviour becomes constitutive of self-concept rather than something being performed. *I am someone who moves* outlasts *I am doing a programme.* This is why the traditions insist on practice, ritual, community and initiation. Those are technologies of identity, and identity is what makes a change survive a bad week, a holiday, a bereavement, a deadline.
+
+**Salutogenesis.** Aaron Antonovsky reversed the question: not what makes people sick, but what keeps people well. His answer was a *sense of coherence* — the extent to which a person experiences their world as comprehensible, manageable and meaningful. It is measurable, it is associated with health outcomes, and it is a direct bridge between the traditional healing systems and health science. Note what it is made of: understanding, capability, and meaning. Every one of those is destroyed by being a passive recipient, and built by participation.
+
+**Two honest qualifications, and they matter more than the argument itself.**
+
+*Effort is not always available.* "You must invest your own energy to heal" becomes cruelty when said to someone in severe depression, in acute psychosis, in cachexia, in poverty working three jobs, or in a body that genuinely cannot comply. The doctrine of participation slides very easily into the doctrine of blame — *you are still ill because you did not want it enough* — and that slide adds moral injury to physical suffering. It is one of the ugliest things in the wellness world. Any framework requiring patient effort must contain an explicit account of what happens when the patient cannot supply it, and that account must never be *then they have chosen illness*.
+
+*Agency is unevenly distributed.* Diet, sleep, movement and stress are only partly choices. They are also functions of income, housing, working hours, food environment, safety and time. "Change your environment to heal" is excellent advice for someone who can change their environment. In population terms, the social determinants of health dwarf everything else in this book — and telling an individual to work upstream while the actual upstream is a labour market is itself a way of treating a symptom.
+
+> **BOTTOM LINE — Chapter 6.** The patient's effort is not the cost of cause-work; it is the mechanism. Mastery builds self-efficacy, action builds internal locus of control, repetition builds identity, and identity is what makes change survive contact with a bad week — which is why what is built as capacity is not withdrawn when a prescription ends. But effort is not always available and agency is not evenly distributed, and a framework that forgets this converts a real insight into blame.
+
+---
+
+## Chapter 7. The Body Keeps the Chain
+
+Traditional systems have always treated the body as a site of stored history rather than merely a mechanism. Contemporary psychophysiology arrived, by an entirely different route, at a compatible position: chronic psychological load is not held in the mind alone but in autonomic set-point, endocrine rhythm, muscular tone, breathing pattern, immune signalling and pain processing.
+
+This is the genuine point of contact between the two worlds, and it is worth stating precisely why it belongs in a book about cause and symptom: **it explains how a cause that is not physical produces a symptom that is.** Without that bridge, the whole argument of Chapter 4 — that the cause is a configuration of life — would have no mechanism, and would be a poem rather than a claim.
+
+**Autonomic regulation.** Slow breathing, extended exhalation, chanting, humming and rhythmic movement measurably shift autonomic balance toward parasympathetic activity and increase heart rate variability, a marker associated with regulatory capacity and resilience. This is unglamorous, replicable physiology, and it is the mechanistic core of a very large number of traditional practices that describe themselves in entirely different language.
+
+**Interoception.** The capacity to perceive internal bodily state is trainable, is impaired across conditions from eating disorders to chronic pain to trauma, and improves with contemplative and somatic practice. Much of what the traditions call *awareness* is interoceptive training with a metaphysical vocabulary attached. And interoception matters enormously for this book's argument, because **a person who cannot read their own signal cannot do cause-work at all** — they are in the position of the clinician in Chapter 1 who switched off the instrument.
+
+**Central sensitisation.** Chronic pain is frequently a disorder of pain processing rather than of ongoing tissue damage: the alarm system has become miscalibrated. This reframing makes intelligible why movement, graded exposure, attention training and psychological work can reduce pain that no anatomical intervention has touched — and why treating the sensation alone can entrench the problem, since avoidance itself sensitises further. Here the symptom-only approach does not merely fail to help. **It participates in the cause.**
+
+**Trauma.** The clinical observation that traumatic experience persists as physiological pattern rather than as narrative memory has reorganised trauma treatment over three decades. The associated therapies vary considerably in evidential standing, but the underlying observation is robust and its implication is not mystical: some conditions cannot be resolved by talking, because the disturbance is not held in the part of the system that talks.
+
+**Rhythm and sound.** Rhythmic auditory stimulation has documented effects on motor timing, and rhythmic auditory cueing is established in Parkinsonian gait rehabilitation. Group drumming, singing and chanting produce measurable effects on mood, stress markers and reported social connectedness, with plausible mechanisms including respiratory entrainment, synchronised movement and the bonding effects of collective rhythmic activity. Music therapy has an evidence base in dementia care, agitation, procedural anxiety and neurorehabilitation.
+
+The honest boundary, stated because this book does not overclaim even where it would be pleasant to: these are effects on **regulation, mood, function, cohesion and pain experience.** They are real, clinically meaningful, and they justify the presence of sound work in serious healthcare. They are not effects on tumour burden, viral load or arterial occlusion, and claims in the frequency-healing register that assert such effects are not supported.
+
+**What this justifies overall.** Somatic and contemplative practice earns its place on ordinary evidential grounds and does not need special pleading. The evidence is genuinely mixed by condition — for chronic low back pain, reviews find low-certainty evidence of no clear difference between yoga and exercise or physical therapy, while other syntheses report strong evidence for mindfulness-based stress reduction improving physical function at eight weeks and six months. For post-traumatic stress, meta-analysis found clinically relevant effects of yoga compared with no treatment, though the quality of evidence was low.
+
+That is an honest picture: **real effects, modest to moderate, variable in certainty, with an excellent safety profile** — and the safety profile is itself a clinical advantage, since the pharmacological alternatives for chronic pain are only modestly effective and carry long-term risks. A modest benefit with near-zero harm, sustained by the person's own practice, is not a consolation prize. In chronic conditions it is frequently the better bet.
+
+> **BOTTOM LINE — Chapter 7.** The body is the mechanism by which a non-physical cause produces a physical symptom — through autonomic set-point, interoceptive accuracy, pain processing and stored physiological pattern. This is what makes "the cause is a configuration of life" a claim rather than a poem. The effects are real and moderate rather than miraculous, and in chronic conditions a modest benefit with near-zero harm is often the better bet.
+
+---
+
+## Chapter 8. Microcosm and Macrocosm
+
+Every traditional system contains a correspondence doctrine: *as in the body, so in the cosmos.* The elements in the person are the elements in the world; the seasons in the year are the seasons in the tissue; disorder in the household is disorder in the blood. It appears in the Vedic elements, in Chinese five-phase theory, in Greek humoral medicine, in hermetic Europe.
+
+Three readings are possible, and the difference between them is the difference between a serious book and a credulous one.
+
+**As literal physics: false.** The body is not composed of five elements. The planets do not govern organs. The humours do not exist.
+
+**As a heuristic of pattern-recognition: valuable.** Correspondence systems are compression algorithms for clinical experience. They allowed practitioners to organise thousands of observations into a memorable structure and to reason analogically about unfamiliar cases. Much of what they encoded was genuine empirical knowledge — the discovery that a plant used for centuries against fever contains an antimalarial compound is the ordinary rather than the exceptional case.
+
+**As an ecological claim: substantially and increasingly correct.** And this is the striking part. The intuition that the human interior is continuous with the world exterior and is patterned by it turns out to describe things the traditions could not possibly have known:
+
+- The **gut microbiome** is a literal ecosystem inside the person, shaped by diet, environment, antibiotics, stress and social contact, and influencing immunity, metabolism and mood. The interior is populated by the exterior. This is correspondence in its strongest literal form.
+- **Circadian biology** ties nearly every physiological process to an external astronomical cycle. Season and light are not metaphors for internal state; they are regulators of it.
+- **Environmental exposure** — air quality, endocrine-disrupting compounds, noise, heat, green space — measurably shapes disease incidence.
+- **Psychoneuroimmunology and social contagion** demonstrate that the states of the people around a person alter that person's physiology.
+
+The traditional claim was that you cannot treat a person apart from their world. That claim is now the mainstream position of environmental health, chronobiology, microbiome science and social epidemiology. It arrived by a different road and in different words, but it arrived. **This is the strongest available formulation of microcosm and macrocosm, and it requires no appeal to subtle energies whatever** — which is precisely why it is the version to argue.
+
+**Yoga as an ordering of causes.** In its clinical reception, yoga has been reduced to stretching with breathing. In its own terms it is a complete therapeutics, and the reduction discards exactly the part that matters here.
+
+The classical eight limbs begin not with the body but with conduct: *yama*, the restraints governing behaviour toward others, and *niyama*, the observances governing one's own life — cleanliness, contentment, discipline, self-study, surrender. Posture, breath regulation, sense withdrawal, concentration, meditation and absorption follow.
+
+**The ordering is itself a theory of cause and symptom.** You cannot regulate a nervous system embedded in a life of dishonesty, violence, greed and disorder. The ethical limbs come first because they address the generating conditions; everything after is technique. Stated in the vocabulary of this book: the tradition puts the first link first and refuses to sell the last link as a product. That is a more demanding position than any modern wellness programme, because it names conduct rather than merely diet.
+
+**The layered self.** The *pañcakośa* model describes the person in five sheaths: the physical body constituted of food, the vital layer associated with breath, the mental-emotional layer, the discerning layer, and the layer of joy. Read as physiology this is not defensible. Read as a **clinical ordering principle** it is unusually sophisticated: it insists that a disturbance can originate at any level and manifest at any other, that intervention at the level of manifestation alone is inadequate, and that treatment must therefore locate the layer of origin. That is a more nuanced statement of the biopsychosocial model than most clinicians ever articulate — and it is a precise statement of Chapter 16's method, written down some two thousand years earlier.
+
+**Habit as sediment.** The doctrine of *saṃskāra* — impressions laid down by repeated action which then condition future action — is a precise pre-modern statement of habit formation. *Vāsanā*, the accumulated tendency arising from those impressions, is a precise statement of why change is hard and why the beginning is hardest. The tradition already had a theory of Chapter 4's initial dip, and it was a theory of habit, not of toxins.
+
+> **BOTTOM LINE — Chapter 8.** Correspondence is false as physics, useful as a memory system, and substantially true as ecology — the interior really is populated and regulated by the exterior, through the microbiome, circadian entrainment, environmental exposure and the physiology of social life. Yoga's eight limbs are an ordering of causes that puts conduct before technique, and its layered model is a clinical instruction to find the level where a disturbance originates rather than the level where it shows.
+
+---
+
+## Chapter 9. Ritual, Meaning, and the Efficacy of Symbols
+
+This chapter treats the part of traditional healing that looks least like medicine and turns out to be doing the most identifiable work.
+
+**Taking shamanic practice seriously means explaining it.** Siberian, Amazonian, Mongolian, southern African and circumpolar traditions make claims that are, in their own terms, ontological: soul loss, spirit intrusion, retrieval, extraction, negotiation with non-human persons. There are two lazy responses. Declaring it superstition fails, because these systems demonstrably work for the conditions they treat within the communities that hold them. Declaring it literally true also fails, because it removes any way of telling a healer from a fraud.
+
+The serious response is to ask by what mechanisms ritual healing produces real change. Medical anthropology has done the work.
+
+**Symbolic efficacy.** Lévi-Strauss's analysis of a Cuna shamanic birth chant argued that the healer's power lies in providing the sufferer with a **language** for an experience that was previously formless and unbearable. Once inchoate suffering has a narrative structure — characters, causes, a resolution — it becomes something that can be undergone rather than merely endured. That is a real transformation: not of the tissue, but of the relationship between the sufferer and their suffering. And it is exactly what the patient with normal test results is not being given.
+
+**Reintegration into the social body.** Traditional healing is almost never private. The ritual convenes the family, the village, the ancestors. Illness is publicly acknowledged, causes are publicly named, obligations are publicly redistributed, and the sick person is publicly reincorporated. Given that social isolation carries mortality risk comparable in magnitude to major conventional risk factors, this is not soft. It is one of the most powerful interventions available to any medicine, and biomedicine has no procedure code for it.
+
+**Permission.** A frequently overlooked function: ritual authorises. It gives a person permission to stop, to grieve, to change, to leave, to be cared for, to relinquish a role. Many people cannot make a needed change until it has been sanctioned by something larger than their own preference. In the language of this book, **ritual is often the only instrument that can reach the first link**, because the first link is usually a life arrangement that the person does not feel entitled to alter.
+
+**The meaning response.** "Placebo" is used in two incompatible ways — as a control condition in trials, and as a slur meaning *not really working*. The anthropologist Daniel Moerman proposed the more accurate term **meaning response**: the physiological and psychological effects produced by the meaning a person attaches to a treatment and its context. Meaning is not nothing. Meaning is something the nervous system computes and responds to, with identified neurochemical mediation — endogenous opioid and dopaminergic involvement in placebo analgesia is documented. The effect is not imaginary; it runs on the same machinery a drug would use.
+
+And there is one distinction that resolves an enormous amount of confusion. Meaning responses are substantial for **subjective and centrally mediated outcomes** — pain, nausea, fatigue, itch, mood, sleep, breathlessness, the symptomatic burden of functional disorders. They are weak or absent for **objective disease markers** — tumour size, bacterial load, fracture healing, arterial patency, viral titre.
+
+That single line explains why alternative modalities perform well on the outcomes patients care most about and poorly on the outcomes that determine survival. It explains why testimonial literature is dense with genuine reports of feeling dramatically better. And it explains why those reports do not license the inference that the disease was cured.
+
+**What biomedicine discards.** The meaning response is generated by factors traditional healing maximises and modern practice systematically throws away: time, touch, explanatory coherence, ritual formality, practitioner warmth and conviction, and continuity of relationship. Open-label placebo research — where people are told outright that the treatment is inert and still report improvement — suggests a meaningful portion of this does not even require deception.
+
+**The conclusion is uncomfortable for both sides.** For biomedicine: you are discarding a real therapeutic resource for reasons of throughput, and the alternative sector's growth is in significant part your abandoned market share. For traditional and alternative practice: a large share of what you attribute to your specific modality is attributable to the context you provide around it. That is not an insult — **the context is your best technology** — but it does mean your theory of why it works is probably wrong.
+
+**And the boundary.** None of this justifies substitution. Extraction does not remove a tumour; soul retrieval does not treat meningitis. Nor does it justify the commercial appropriation of these practices stripped of community, cosmology, lineage and accountability, which is what most of the Western market sells — a ceremony without a community to return to is missing the mechanism that made it work. Nor does it excuse the safety vacuum: psychoactive plant ceremonies carry real cardiovascular risk, dangerous interactions with serotonergic medication, precipitation of psychosis in vulnerable people, and a documented, widespread problem of sexual and financial exploitation by unaccountable practitioners. Traditional contexts contained accountability structures. The retreat market frequently does not.
+
+> **BOTTOM LINE — Chapter 9.** Ritual healing works through identifiable mechanisms: it gives formless suffering a language, reincorporates the sick person into a social body, and authorises changes the person did not feel entitled to make. The meaning response is real and neurochemically mediated, and it moves symptoms rather than disease markers — which is exactly why it helps enormously and proves nothing about cure.
+
+---
+
+# PART III — THE SAME PATTERN, ELSEWHERE
 
 The claim of this part is that the structure just described is not a fact about medicine. It is a fact about how systems fail and how people respond to failure. Medicine is simply where we can see it most clearly, because there the body keeps score.
 
 ---
 
-## Chapter 6. The Field: Monoculture and the Pest
+## Chapter 10. The Field: Monoculture and the Pest
 
 A farmer plants a thousand hectares of one variety of wheat. Within a few seasons, a pest arrives and multiplies beyond anything seen in a mixed landscape. He sprays. It works — that year. The following year he sprays more, and the year after that the pest is resistant and a second pest, previously controlled by predators the spray also killed, has taken its place.
 
@@ -184,11 +307,11 @@ That is a precise agricultural statement of the prescribing cascade — and a pr
 
 That is the real shape of the argument, and it is stronger for being modest. Diversity is not magic. It is **insurance**, and insurance is worth buying in proportion to risk.
 
-> **BOTTOM LINE — Chapter 6.** The pest is the symptom; the uniformity is the cause. Spraying is correct when the harvest would otherwise be lost this season, and it becomes the disease when it becomes permanent, because it treats the last link and selects for resistance — the agricultural name for a rising dose. The cure is not a better weapon but a design in which outbreak cannot build.
+> **BOTTOM LINE — Chapter 10.** The pest is the symptom; the uniformity is the cause. Spraying is correct when the harvest would otherwise be lost this season, and it becomes the disease when it becomes permanent, because it treats the last link and selects for resistance — the agricultural name for a rising dose. The cure is not a better weapon but a design in which outbreak cannot build.
 
 ---
 
-## Chapter 7. The River: Schauberger and the Two Motions
+## Chapter 11. The River: Schauberger and the Two Motions
 
 Viktor Schauberger (1885–1958) was an Austrian forester who spent his life arguing that the way industrial civilisation moves water is backwards. He deserves a chapter here for one idea, and he deserves an honest chapter because the rest of his work does not survive scrutiny.
 
@@ -204,11 +327,11 @@ The upstream answer is the ecological one Schauberger argued for a century ago a
 
 **The general form,** and this is the part that transfers everywhere: **explosion is fast and produces waste; implosion is slow and produces order.** Pushing a system apart to extract from it is quick and leaves heat and debris. Letting a system organise itself around its own form is slow and leaves structure. Every domain in this book has both options available.
 
-> **BOTTOM LINE — Chapter 7.** Straightening a river relieves flooding here by exporting it downstream, then requires ever higher walls — symptom-work with a rising dose and a destroyed signal. The cause is a catchment that can no longer absorb, and the cure is upstream and slow. Schauberger's energy claims are unproven; his ecological intuition about flow was right, and modern river restoration has arrived at it independently.
+> **BOTTOM LINE — Chapter 11.** Straightening a river relieves flooding here by exporting it downstream, then requires ever higher walls — symptom-work with a rising dose and a destroyed signal. The cause is a catchment that can no longer absorb, and the cure is upstream and slow. Schauberger's energy claims are unproven; his ecological intuition about flow was right, and modern river restoration has arrived at it independently.
 
 ---
 
-## Chapter 8. The Border: Migration as Symptom
+## Chapter 12. The Border: Migration as Symptom
 
 A boat reaches an island. Everything about it is a symptom, and everything about the political argument that follows is about the symptom.
 
@@ -240,11 +363,11 @@ Which is exactly the point about balance. **An honest exchange leaves both sides
 
 **The dark side of this argument, stated plainly.** "Address the root causes" is also the most common way to do nothing. It is invoked to postpone rescue, to avoid the obligations of the present, and to convert an emergency into a seminar. Chapter 2 applies with full force here: **when a person is in the water, you pull them out.** The drowning is the lethal symptom; you do not lecture it. Cause-work in this domain is measured in decades — governance, tax transparency, beneficial-ownership registers, trade terms, climate adaptation — and none of it saves anyone tonight. Both halves of the principle, or neither.
 
-> **BOTTOM LINE — Chapter 8.** Arrivals are the symptom; the unlivability that produced departure is the cause, and it is generated less by resources themselves than by the institutional arrangements that decide who receives their value. Open and closed border positions are both symptom positions, which is why the argument never ends. Rescue is non-negotiable and immediate; cause-work takes decades — and "root causes" must never become a reason to leave people in the water.
+> **BOTTOM LINE — Chapter 12.** Arrivals are the symptom; the unlivability that produced departure is the cause, and it is generated less by resources themselves than by the institutional arrangements that decide who receives their value. Open and closed border positions are both symptom positions, which is why the argument never ends. Rescue is non-negotiable and immediate; cause-work takes decades — and "root causes" must never become a reason to leave people in the water.
 
 ---
 
-## Chapter 9. War: The Hardest Case
+## Chapter 13. War: The Hardest Case
 
 Two wars are running as this is written, and both are usually discussed entirely at the level of symptom: territory taken this month, strikes exchanged this week, whether a ceasefire held for thirty-two hours.
 
@@ -266,15 +389,15 @@ What survives, and it is worth something, is the structural observation that **a
 
 And Chapter 2 again, without which this chapter would be obscene: **when people are being killed, stopping the killing comes first.** A ceasefire that solves nothing structural still saves the people alive during it. That is not a compromise of the principle. It is the principle.
 
-> **BOTTOM LINE — Chapter 9.** Strikes and lines are symptoms; the failed arrangements underneath are the cause, and a settlement addressing only the fighting produces the next war. But causes in war are contested rather than measurable, and root-cause language is itself a standard justification for aggression — a real grievance never licenses a criminal means. Stop the killing first; then do the structural work, which is the only thing that ends rather than pauses a war.
+> **BOTTOM LINE — Chapter 13.** Strikes and lines are symptoms; the failed arrangements underneath are the cause, and a settlement addressing only the fighting produces the next war. But causes in war are contested rather than measurable, and root-cause language is itself a standard justification for aggression — a real grievance never licenses a criminal means. Stop the killing first; then do the structural work, which is the only thing that ends rather than pauses a war.
 
 ---
 
-# PART III — THE PATTERN ITSELF
+# PART IV — THE PATTERN ITSELF
 
 ---
 
-## Chapter 10. The Fractal
+## Chapter 14. The Fractal
 
 Set the five domains beside each other and the same structure appears in each, with only the vocabulary changed.
 
@@ -302,11 +425,11 @@ Read the columns rather than the rows and the fractal becomes explicit. Five phe
 
 That formulation is a useful lens and it should be labelled honestly: it is a systems-thinking principle, not a moral law. **Nature is not punishing anyone.** There is no intention in a pest population, or in an unemployment rate, or in an inflamed joint. What there is, in every case, is a feedback loop that was operating whether or not anyone was watching, and consequences that returned to their source because the system is closed enough that they had nowhere else to go. That is enough. It does not need to be justice to be real.
 
-> **BOTTOM LINE — Chapter 10.** Five domains sharing no physics share one logic: the symptom surfaces where the system is weakest, the fast fix genuinely works and is therefore repeated, the dose rises because the cause keeps running, and the suppression destroys the signal that would have reported it. Escalation is the universal sign that you are treating a symptom.
+> **BOTTOM LINE — Chapter 14.** Five domains sharing no physics share one logic: the symptom surfaces where the system is weakest, the fast fix genuinely works and is therefore repeated, the dose rises because the cause keeps running, and the suppression destroys the signal that would have reported it. Escalation is the universal sign that you are treating a symptom.
 
 ---
 
-## Chapter 11. The Wisdom Line: Dose, Timing, and Nothing Wasted
+## Chapter 15. The Wisdom Line: Dose, Timing, and Nothing Wasted
 
 Everything in this book has been leading to one claim, and it is a claim about proportion rather than about sides.
 
@@ -334,11 +457,11 @@ The **purist** refuses symptom-work on principle, lets the person die of the tre
 
 The suppressor's error is more common. **The purist's error is more lethal per instance**, because the suppressor at least keeps the patient alive to be wrong about, while the purist's mistake removes that option. This book is a critique of symptom-only thinking, and it should not be read as permission to become the second thing.
 
-> **BOTTOM LINE — Chapter 11.** No tool in this book is wrong; every one becomes destructive at the wrong dose or past its hour. The reason correct dosing is so hard is that relief feels like resolution and removes the motivation to go upstream — which is why the exit condition must be written down at the moment the intervention begins. Suppressing forever and refusing to suppress at all are both failures, and the second kills faster.
+> **BOTTOM LINE — Chapter 15.** No tool in this book is wrong; every one becomes destructive at the wrong dose or past its hour. The reason correct dosing is so hard is that relief feels like resolution and removes the motivation to go upstream — which is why the exit condition must be written down at the moment the intervention begins. Suppressing forever and refusing to suppress at all are both failures, and the second kills faster.
 
 ---
 
-## Chapter 12. Finding the Cause: A Method
+## Chapter 16. Finding the Cause: A Method
 
 A practical procedure, usable in a clinic, on a farm, in a catchment, in an institution.
 
@@ -360,7 +483,7 @@ A practical procedure, usable in a clinic, on a farm, in a catchment, in an inst
 
 **9. Re-examine.** Both for progress and for the possibility that the original diagnosis was wrong. The willingness to be wrong is not a weakness of the method. It is the method.
 
-> **BOTTOM LINE — Chapter 12.** Separate the symptom from the story, stabilise if it is lethal, then ask what must keep happening for the symptom to persist and follow that upstream to the first link you can actually reach. Watch for the rising dose, change one thing at a time and measure, write the exit condition at the start, and give the adaptation cost a deadline.
+> **BOTTOM LINE — Chapter 16.** Separate the symptom from the story, stabilise if it is lethal, then ask what must keep happening for the symptom to persist and follow that upstream to the first link you can actually reach. Watch for the rising dose, change one thing at a time and measure, write the exit condition at the start, and give the adaptation cost a deadline.
 
 ---
 

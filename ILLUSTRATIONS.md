@@ -82,36 +82,52 @@ The two registers must **share one continuous space**. Never a diptych with a bo
 **IMAGE SLOT: `img/05-crisis.png`** — [ ] pending
 > A photorealistic close crop of a thermometer and a glass of water on a bedside table in dim light, ordinary, domestic, slightly untidy. Drawn into the same space in graphite, two diverging paths leaving the bedside and separating: one path drawn ascending and continuing off the top of the frame in warm gold, the other drawn descending and simply stopping mid-air, unfinished, with the eraser ghost of where it would have continued. No text.
 
-### CH 6 — *The Field*
-**IMAGE SLOT: `img/06-field.png`** — [ ] pending
+### CH 6 — *Effort as Medicine*
+**IMAGE SLOT: `img/06-effort.png`** — [ ] pending
+> Photorealistic: a single worn wooden stair tread photographed close, the centre of it dished and polished smooth by decades of feet, real grain, real light from a side window. Drawn into the same continuous frame in graphite on visible paper, the same staircase continuing upward beyond the photograph, hundreds of identical treads receding, construction lines visible, each one drawn fainter than the last, the topmost few rendered as warm gold suggestions only. No figures. No text.
+
+### CH 7 — *The Body Keeps the Chain*
+**IMAGE SLOT: `img/07-body.png`** — [ ] pending
+> Photorealistic: a close crop of a human shoulder and neck at rest in soft natural light, ordinary skin, no styling, no face visible. Drawn into and through the same space in graphite, the wiring beneath: the branching path of the vagus nerve descending from the skull through the chest to the gut, sketched as an anatomical study with construction lines, and around it the faint drawn schematic of a breath moving in and out, rendered as one continuous warm gold line that loops from the drawn diaphragm out past the edge of the frame and back. No text.
+
+### CH 8 — *Microcosm and Macrocosm*
+**IMAGE SLOT: `img/08-micromacro.png`** — [ ] pending
+> One continuous circular image. The outer ring is photorealistic: a real forest floor seen from directly above, leaf litter, fungal threads, moss, wet soil, real texture and real light. The inner disc is drawn in graphite on visible paper: the same branching structure rendered as the interior of a human gut, villi and microbial colonies sketched with construction lines, the branching pattern identical in both halves so the eye cannot tell where the forest ends and the body begins. A single warm gold thread runs continuously from the drawn interior out into the photographed forest. No text.
+
+### CH 9 — *Ritual, Meaning, and the Efficacy of Symbols*
+**IMAGE SLOT: `img/09-ritual.png`** — [ ] pending
+> Photorealistic: a ring of empty chairs on bare ground at dusk, arranged facing inward around a patch of ash, real light, real dust, no people, no drums, no costume, no ethnographic specificity. Drawn into the centre of the ring in graphite on visible paper, rising out of the ash, an alphabet — not words, but the schematic construction of letterforms and glyphs being built stroke by stroke with construction lines showing, as though a language is being assembled. One glyph among them is rendered in warm gold. No text that reads as text.
+
+### CH 10 — *The Field*
+**IMAGE SLOT: `img/10-field.png`** — [ ] pending
 > Photorealistic: an aerial view of an absolutely uniform monoculture field stretching to the horizon, hard flat light, geometric, no hedge, no tree, no water, no bird. Drawn over and into the lower third in graphite on visible paper, the cross-section beneath the soil: layered roots, fungal threads, insect galleries, a hedgerow's root mass, a pond, all sketched with construction lines, the fungal network rendered in faint warm gold. The photograph is empty; the drawing beneath it is crowded. No text.
 
-### CH 7 — *The River*
-**IMAGE SLOT: `img/07-river.png`** — [ ] pending
+### CH 11 — *The River*
+**IMAGE SLOT: `img/11-river.png`** — [ ] pending
 > Photorealistic: a straightened concrete flood channel, grey, rectangular, water moving fast and flat between poured walls, overcast light, entirely lifeless. Drawn into the same continuous frame in graphite, the meander that used to be there, sketched in plan over the concrete with construction lines, gravel bars, an oxbow, overhanging trees, and a spiral vortex at its centre rendered in warm gold. The drawing sits under and through the photograph as though the old river is still there beneath the concrete. No text.
 
-### CH 8 — *The Border*
-**IMAGE SLOT: `img/08-border.png`** — [ ] pending
+### CH 12 — *The Border*
+**IMAGE SLOT: `img/12-border.png`** — [ ] pending
 > Photorealistic: an empty wooden boat, small, weathered, pulled up on stones, photographed in flat morning light. No people. Nothing in the boat. Drawn into the same space in graphite, receding away from the boat and off the frame, the long chain of what preceded it, sketched schematically and without any human figures: a drilling derrick, a pipeline, a signed contract, a bank building, a dry field, a closed factory, each drawn smaller as it recedes, the pipeline rendered as one continuous faint warm gold line running the whole length. No text.
 
-### CH 9 — *War*
-**IMAGE SLOT: `img/09-war.png`** — [ ] pending
+### CH 13 — *War*
+**IMAGE SLOT: `img/13-war.png`** — [ ] pending
 > Photorealistic: an empty conference room, real fluorescent light, a long table, chairs pushed in, a jug of water, a closed door. No people, no flags, no papers, no symbols of any kind. Drawn into the same continuous space in graphite, rising out of the table surface, the schematic architecture of a settlement: interlocking arches and load-bearing structures sketched with construction lines, half of them drawn complete and half of them drawn only as eraser ghosts where they were never built. One keystone rendered in warm gold, drawn but not yet placed, floating just above its slot. No text.
 
-### CH 10 — *The Fractal*
-**IMAGE SLOT: `img/10-fractal.png`** — [ ] pending
+### CH 14 — *The Fractal*
+**IMAGE SLOT: `img/14-fractal.png`** — [ ] pending
 > One continuous image built as a single spiral. Along the spiral, five moments repeat the same shape at different scales: an inflamed joint, a wheat field, a river bend, a shoreline, an empty table. The outermost turn of the spiral is fully photorealistic. As the spiral turns inward the images become progressively more drawn, losing photographic texture and gaining graphite and construction lines, until the innermost turn is pure pencil on visible paper. The very centre of the spiral is a single small warm gold point. No text.
 
-### CH 11 — *The Wisdom Line*
-**IMAGE SLOT: `img/11-dose.png`** — [ ] pending
+### CH 15 — *The Wisdom Line*
+**IMAGE SLOT: `img/15-dose.png`** — [ ] pending
 > Photorealistic: a simple brass apothecary balance on a plain surface in warm side light, real metal, real shadow, one pan slightly lower than the other. Drawn into the same frame in graphite, extending from the balance, a long horizontal line marked with irregular divisions like a ruler, running the whole width of the frame, construction lines visible. A single division near the middle is marked in warm gold. Everything to the left of that mark and everything to the right of it is drawn identically — the mark is the only difference. No text.
 
-### CH 12 — *Finding the Cause*
-**IMAGE SLOT: `img/12-method.png`** — [ ] pending
+### CH 16 — *Finding the Cause*
+**IMAGE SLOT: `img/16-method.png`** — [ ] pending
 > Photorealistic: a hand holding a pencil above an open notebook on a plain table, real light, the page still blank, ordinary and unstaged. Drawn in graphite continuing out of the notebook and filling the rest of the frame, a branching diagram of a system traced backward, each branch thinner than the last, construction lines and crossings-out visible, several branches abandoned mid-stroke with eraser ghosts. One single branch is followed all the way to the frame edge in warm gold. No text.
 
 ### CONCLUSION
-**IMAGE SLOT: `img/13-conclusion.png`** — [ ] pending
+**IMAGE SLOT: `img/17-conclusion.png`** — [ ] pending
 > One continuous image. On the right, photorealistic, a door standing open onto ordinary daylight, real threshold, real worn floor, nothing beyond it staged or dramatic. On the left and filling most of the frame, drawn in graphite on visible paper, the entire chain from the first character sheet, complete, all five links, laid out and traced from the far distance to the doorway, with the first link rendered in warm gold and the last link resting exactly on the real threshold where the drawing becomes the photograph. No text.
 
 ---

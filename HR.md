@@ -158,13 +158,136 @@ Ako bilo što od toga ne stoji, ispravno tumačenje nije da ozdravljenje ide dub
 
 ---
 
-# II. DIO — ISTI OBRAZAC, DRUGDJE
+# II. DIO — KAKO RAD NA UZROKU ZAPRAVO FUNKCIONIRA
+
+Poglavlja 3 do 5 utvrdila su da je prirodna medicina spora jer djeluje na prvu kariku, i da je ta prva karika konfiguracija koju može promijeniti samo sam čovjek. To je tvrdnja o tome *gdje* se posao odvija. Ovaj dio govori o tome *kako* — kojim se mehanizmima konfiguracija zapravo mijenja i zašto ti mehanizmi traju koliko traju.
+
+Ništa u ovom dijelu ne traži nepoznatu energiju ni neizmjerenu tvar. To je namjerno. **Argument koji preživi bez metafizike ne može se srušiti napadom na metafiziku** — a ispada da tradicije opisuju obične procese izvanrednim jezikom, što je mnogo jača pozicija nego što im se obično priznaje.
+
+---
+
+## Poglavlje 6. Trud kao lijek
+
+U svakom tradicionalnom sustavu liječenja postoji tvrdnja koja se rijetko izgovori otvoreno: **pacijent koji uloži vlastitu energiju ozdravi drukčije i trajnije od pacijenta koji primi tvar** — jer je sam proces oporavka obrazovanje, a naučeno se ne može ukinuti kao recept.
+
+To je najobranjivija pojedinačna tvrdnja u cijelom repertoaru prirodne medicine, i ima ozbiljnu literaturu pod imenima koja njezini zagovornici gotovo nikad ne koriste.
+
+**Iskustvo svladavanja.** Samoučinkovitost — vjerovanje čovjeka da može utjecati na vlastito stanje — predviđa pridržavanje, ustrajnost kroz posrtaje i ishod u golemom rasponu kroničnih stanja. Nije samo povezana s oporavkom; ona je njegov promjenjiv uzrok. A gradi je prije svega jedno: izravno iskustvo da si napravio nešto teško i uspio. Tableta ne daje iskustvo svladavanja. Dvanaest tjedana stupnjevane vježbe daje ga na svakom treningu. **Zato trud nije cijena lijeka. Trud je dio lijeka.**
+
+**Lokus kontrole.** Zahvati koji uzročnu moć smještaju izvan čovjeka treniraju vanjski lokus kontrole: netko sposoban radi nešto meni, negdje drugdje. Zahvati koji traže čovjekovo djelovanje treniraju unutarnji lokus. U kroničnoj bolesti unutarnji lokus predviđa bolje samoupravljanje i bolje ishode. To je mehanički sadržaj narodne tvrdnje da *si se sam izliječio, pa zato drži.*
+
+**Krivulja učenja, opet.** Promjena ponašanja je motoričko i kognitivno učenje i ima oblik koji svako učenje ima: sporo, naporno i puno pogrešaka na početku, pa automatsko. 4. poglavlje time je objasnilo zašto je početak teži. To objašnjava i zašto sredina djeluje uzaludno — zaravan, gdje trud traje a vidljivi napredak stane, univerzalna je značajka usvajanja vještine i točka u kojoj većina ljudi zaključi da pristup nije uspio. Nije. Konsolidira se.
+
+**Identitet, ne zadatak.** Trajna promjena nastaje kad ponašanje postane sastavni dio slike o sebi, a ne nešto što se izvodi. *Ja sam netko tko se kreće* nadživi *ja odrađujem program.* Zato tradicije inzistiraju na praksi, ritualu, zajednici i inicijaciji. To su tehnologije identiteta, a identitet je ono što promjenu održi kroz loš tjedan, godišnji odmor, smrt u obitelji, rok.
+
+**Salutogeneza.** Aaron Antonovsky okrenuo je pitanje: ne što ljude čini bolesnima, nego što ih drži zdravima. Odgovor mu je bio *osjećaj koherencije* — mjera u kojoj čovjek svoj svijet doživljava kao razumljiv, savladiv i smislen. Mjerljiv je, povezan je s ishodima i izravan je most između tradicionalnih sustava i zdravstvene znanosti. Primijeti od čega je sastavljen: razumijevanje, sposobnost i smisao. Svako od toga uništava se pasivnim primanjem, a gradi sudjelovanjem.
+
+**Dvije poštene ograde, i važnije su od samog argumenta.**
+
+*Trud nije uvijek dostupan.* "Moraš uložiti vlastitu energiju da ozdraviš" postaje okrutnost kad se kaže čovjeku u teškoj depresiji, u akutnoj psihozi, u kaheksiji, u siromaštvu s tri posla, ili u tijelu koje doista ne može. Doktrina sudjelovanja vrlo lako sklizne u doktrinu krivnje — *još si bolestan jer nisi dovoljno htio* — a taj klizaj fizičkoj patnji dodaje moralnu ozljedu. To je jedna od najružnijih stvari u wellness svijetu. Svaki okvir koji traži pacijentov trud mora imati izričit odgovor na to što kad ga pacijent ne može dati, i taj odgovor nikad ne smije biti *onda je izabrao bolest*.
+
+*Sposobnost djelovanja nije jednako raspoređena.* Prehrana, san, kretanje i stres samo su dijelom izbori. Oni su i funkcija prihoda, stanovanja, radnog vremena, okoliša hrane, sigurnosti i vremena. "Promijeni okoliš da ozdraviš" izvrstan je savjet onome tko svoj okoliš može promijeniti. Na razini populacije društvene odrednice zdravlja nadmašuju sve ostalo u ovoj knjizi — a reći pojedincu da radi uzvodno dok je stvarno uzvodno tržište rada i samo je oblik liječenja simptoma.
+
+> **ZAKLJUČAK — 6. poglavlje.** Pacijentov trud nije trošak rada na uzroku; on je mehanizam. Svladavanje gradi samoučinkovitost, djelovanje gradi unutarnji lokus kontrole, ponavljanje gradi identitet, a identitet je ono što promjenu održi kroz loš tjedan — zato se ono što je izgrađeno kao sposobnost ne ukida kad recept istekne. Ali trud nije uvijek dostupan i sposobnost djelovanja nije jednako raspoređena, a okvir koji to zaboravi pretvara stvaran uvid u krivnju.
+
+---
+
+## Poglavlje 7. Tijelo pamti lanac
+
+Tradicionalni sustavi oduvijek su tijelo tretirali kao mjesto pohranjene povijesti, a ne samo kao mehanizam. Suvremena psihofiziologija došla je posve drugim putem do spojive pozicije: kronično psihičko opterećenje ne drži se samo u umu nego u autonomnoj radnoj točki, endokrinom ritmu, mišićnom tonusu, obrascu disanja, imunosnoj signalizaciji i obradi boli.
+
+To je stvarna dodirna točka dvaju svjetova, i vrijedi precizno reći zašto pripada u knjigu o uzroku i simptomu: **time se objašnjava kako uzrok koji nije fizički proizvodi simptom koji jest.** Bez tog mosta cijeli argument 4. poglavlja — da je uzrok konfiguracija života — ne bi imao mehanizam i bio bi pjesma, a ne tvrdnja.
+
+**Autonomna regulacija.** Sporo disanje, produljen izdisaj, pjevanje, brujanje i ritmičko kretanje mjerljivo pomiču autonomnu ravnotežu prema parasimpatikusu i povećavaju varijabilnost srčanog ritma, pokazatelj povezan s regulacijskim kapacitetom i otpornošću. To je neglamurozna, ponovljiva fiziologija i mehanička jezgra vrlo velikog broja tradicionalnih praksi koje sebe opisuju posve drugim rječnikom.
+
+**Interocepcija.** Sposobnost opažanja unutarnjeg tjelesnog stanja može se trenirati, oštećena je u rasponu od poremećaja hranjenja preko kronične boli do traume, i poboljšava se kontemplativnom i somatskom praksom. Mnogo toga što tradicije zovu *svjesnošću* jest trening interocepcije s pridodanim metafizičkim rječnikom. A interocepcija je za argument ove knjige ključna, jer **čovjek koji ne zna čitati vlastiti signal ne može uopće raditi na uzroku** — u položaju je kliničara iz 1. poglavlja koji je isključio instrument.
+
+**Centralna senzitizacija.** Kronična bol često je poremećaj obrade boli, a ne trajnog oštećenja tkiva: alarmni sustav je krivo baždaren. To preokviravanje čini razumljivim zašto kretanje, stupnjevano izlaganje, trening pažnje i psihološki rad mogu smanjiti bol koju nijedan anatomski zahvat nije dotaknuo — i zašto liječenje samog osjeta može problem ukopati, jer izbjegavanje dodatno senzitizira. Ovdje pristup usmjeren samo na simptom ne samo da ne pomaže. **On sudjeluje u uzroku.**
+
+**Trauma.** Klinička opservacija da traumatsko iskustvo ostaje kao fiziološki obrazac, a ne kao pripovjedno sjećanje, preustrojila je liječenje traume kroz tri desetljeća. Pripadajuće terapije znatno se razlikuju po dokaznoj snazi, ali temeljno opažanje je čvrsto i njegova implikacija nije mistična: neka se stanja ne mogu razriješiti razgovorom jer smetnja nije u dijelu sustava koji govori.
+
+**Ritam i zvuk.** Ritmička slušna stimulacija ima dokumentirane učinke na motoričko vrijeme, a ritmičko slušno navođenje ustaljeno je u rehabilitaciji hoda kod parkinsonizma. Grupno bubnjanje, pjevanje i kantiranje daju mjerljive učinke na raspoloženje, pokazatelje stresa i osjećaj društvene povezanosti, uz uvjerljive mehanizme poput usklađivanja disanja, sinkroniziranog pokreta i povezujućeg učinka zajedničke ritmičke aktivnosti. Glazbena terapija ima dokaznu osnovu u skrbi za demenciju, uznemirenost, proceduralnu tjeskobu i neurorehabilitaciju.
+
+Poštena granica, izrečena jer ova knjiga ne pretjeruje ni ondje gdje bi to bilo ugodno: to su učinci na **regulaciju, raspoloženje, funkciju, povezanost i doživljaj boli.** Stvarni su, klinički značajni i opravdavaju prisutnost rada sa zvukom u ozbiljnom zdravstvu. Nisu učinci na masu tumora, virusno opterećenje ili začepljenje arterije, i tvrdnje iz registra "iscjeljivanja frekvencijama" koje to tvrde nisu potkrijepljene.
+
+**Što ovo ukupno opravdava.** Somatska i kontemplativna praksa zaslužuje svoje mjesto na običnim dokaznim osnovama i ne treba joj posebna milost. Dokazi su doista mješoviti po stanjima — kod kronične boli u križima pregledi nalaze dokaze niske sigurnosti da nema jasne razlike između joge i vježbe ili fizioterapije, dok druge sinteze izvještavaju o jakim dokazima da MBSR poboljšava tjelesnu funkciju nakon osam tjedana i šest mjeseci. Kod posttraumatskog stresa metaanaliza je našla klinički relevantne učinke joge u odnosu na izostanak liječenja, uz nisku kvalitetu dokaza.
+
+To je poštena slika: **stvarni učinci, skromni do umjereni, promjenjive sigurnosti, uz izvrstan sigurnosni profil** — a sam sigurnosni profil je klinička prednost, jer su farmakološke alternative za kroničnu bol tek skromno učinkovite i nose dugoročne rizike. Skromna korist uz gotovo nikakvu štetu, održavana vlastitom praksom, nije utješna nagrada. U kroničnim stanjima često je bolji ulog.
+
+> **ZAKLJUČAK — 7. poglavlje.** Tijelo je mehanizam kojim nefizički uzrok proizvodi fizički simptom — kroz autonomnu radnu točku, točnost interocepcije, obradu boli i pohranjeni fiziološki obrazac. To je ono što tvrdnju "uzrok je konfiguracija života" čini tvrdnjom, a ne pjesmom. Učinci su stvarni i umjereni, a ne čudesni, i u kroničnim stanjima skromna korist uz gotovo nikakvu štetu često je bolji ulog.
+
+---
+
+## Poglavlje 8. Mikrokozmos i makrokozmos
+
+Svaki tradicionalni sustav sadrži doktrinu korespondencije: *kako u tijelu, tako u svemiru.* Elementi u čovjeku su elementi u svijetu; godišnja doba u godini su godišnja doba u tkivu; nered u kućanstvu je nered u krvi. Javlja se u vedskim elementima, u kineskoj teoriji pet faza, u grčkoj humoralnoj medicini, u hermetičkoj Europi.
+
+Moguća su tri čitanja, a razlika među njima je razlika između ozbiljne i lakovjerne knjige.
+
+**Kao doslovna fizika: netočno.** Tijelo nije sastavljeno od pet elemenata. Planeti ne upravljaju organima. Humori ne postoje.
+
+**Kao heuristika prepoznavanja obrazaca: vrijedno.** Sustavi korespondencije su algoritmi sažimanja kliničkog iskustva. Omogućili su liječnicima da tisuće opažanja slože u pamtljivu strukturu i da o nepoznatim slučajevima zaključuju analogijom. Mnogo toga što su zabilježili bilo je stvarno empirijsko znanje — otkriće da biljka stoljećima korištena protiv vrućice sadrži antimalarijski spoj obično je, a ne iznimno.
+
+**Kao ekološka tvrdnja: bitno i sve više točno.** I to je zapanjujući dio. Intuicija da je ljudska unutrašnjost neprekinuta s vanjskim svijetom i da je njime oblikovana ispada da opisuje stvari koje tradicije nikako nisu mogle znati:
+
+- **Crijevni mikrobiom** je doslovan ekosustav unutar čovjeka, oblikovan prehranom, okolišem, antibioticima, stresom i društvenim dodirom, i utječe na imunitet, metabolizam i raspoloženje. Unutrašnjost je naseljena vanjštinom. To je korespondencija u najdoslovnijem obliku.
+- **Cirkadijalna biologija** vezuje gotovo svaki fiziološki proces uz vanjski astronomski ciklus. Godišnje doba i svjetlo nisu metafore za unutarnje stanje; oni su njegovi regulatori.
+- **Izloženost okolišu** — kakvoća zraka, endokrini disruptori, buka, vrućina, zelene površine — mjerljivo oblikuje pojavnost bolesti.
+- **Psihoneuroimunologija i društvena zaraza** pokazuju da stanja ljudi oko čovjeka mijenjaju njegovu fiziologiju.
+
+Tradicionalna tvrdnja bila je da čovjeka ne možeš liječiti odvojeno od njegova svijeta. Ta je tvrdnja danas glavna pozicija okolišnog zdravlja, kronobiologije, znanosti o mikrobiomu i socijalne epidemiologije. Došla je drugim putem i drugim riječima, ali došla je. **To je najjača dostupna formulacija mikrokozmosa i makrokozmosa i ne traži nikakav poziv na suptilne energije** — i upravo zato je to verzija koju treba braniti.
+
+**Joga kao poredak uzroka.** U kliničkoj recepciji joga je svedena na istezanje s disanjem. U vlastitim je terminima cjelovita terapeutika, a redukcija odbacuje upravo dio koji je ovdje bitan.
+
+Klasičnih osam udova ne počinje tijelom nego ponašanjem: *yama*, suzdržavanja koja uređuju odnos prema drugima, i *niyama*, pravila koja uređuju vlastiti život — čistoća, zadovoljstvo, disciplina, samoproučavanje, predanost. Položaj, regulacija daha, povlačenje osjetila, koncentracija, meditacija i utonuće dolaze poslije.
+
+**Sam poredak je teorija uzroka i simptoma.** Ne možeš regulirati živčani sustav ugrađen u život nepoštenja, nasilja, pohlepe i nereda. Etički udovi dolaze prvi jer se bave uvjetima koji proizvode; sve poslije je tehnika. Rečeno rječnikom ove knjige: tradicija stavlja prvu kariku prvu i odbija prodavati zadnju kariku kao proizvod. To je zahtjevnija pozicija od svakog suvremenog wellness programa, jer imenuje ponašanje, a ne samo prehranu.
+
+**Slojeviti sebe.** Model *pañcakośa* opisuje čovjeka u pet ovoja: tjelesnom sastavljenom od hrane, vitalnom vezanom uz dah, mentalno-emocionalnom, razlučujućem i ovoju radosti. Kao fiziologija to nije obranjivo. Kao **klinički poredak** neobično je sofisticirano: inzistira da smetnja može nastati na bilo kojoj razini i očitovati se na bilo kojoj drugoj, da zahvat samo na razini očitovanja nije dovoljan, i da liječenje mora pronaći razinu nastanka. To je nijansiraniji iskaz biopsihosocijalnog modela nego što ga većina kliničara ikad izgovori — i precizan iskaz metode iz 16. poglavlja, zapisan dvije tisuće godina ranije.
+
+**Navika kao naslaga.** Doktrina *saṃskāre* — otisaka koje ostavlja ponovljeno djelovanje i koji zatim uvjetuju buduće djelovanje — precizan je predmoderni iskaz stvaranja navike. *Vāsanā*, nakupljena sklonost koja iz tih otisaka izrasta, precizan je iskaz zašto je promjena teška i zašto je početak najteži. Tradicija je već imala teoriju početnog pada iz 4. poglavlja, i to je bila teorija navike, a ne toksina.
+
+> **ZAKLJUČAK — 8. poglavlje.** Korespondencija je netočna kao fizika, korisna kao sustav pamćenja i bitno točna kao ekologija — unutrašnjost je doista naseljena i regulirana vanjštinom, kroz mikrobiom, cirkadijalno usklađivanje, izloženost okolišu i fiziologiju društvenog života. Jogijskih osam udova je poredak uzroka koji ponašanje stavlja prije tehnike, a slojeviti model je klinička uputa da se traži razina na kojoj smetnja nastaje, a ne razina na kojoj se vidi.
+
+---
+
+## Poglavlje 9. Ritual, smisao i djelotvornost simbola
+
+Ovo poglavlje obrađuje dio tradicionalnog liječenja koji najmanje sliči medicini, a ispada da radi najprepoznatljiviji posao.
+
+**Shvatiti šamansku praksu ozbiljno znači objasniti je.** Sibirske, amazonske, mongolske, južnoafričke i cirkumpolarne tradicije iznose tvrdnje koje su u vlastitim terminima ontološke: gubitak duše, upad duha, povrat, izvlačenje, pregovaranje s neljudskim osobama. Postoje dva lijena odgovora. Proglasiti to praznovjerjem ne prolazi, jer ti sustavi dokazivo djeluju za stanja koja liječe unutar zajednica koje ih drže. Proglasiti to doslovno istinitim također ne prolazi, jer uklanja svaki način razlikovanja iscjelitelja od prevaranta.
+
+Ozbiljan odgovor je pitati kojim mehanizmima ritualno liječenje proizvodi stvarnu promjenu. Medicinska antropologija taj je posao odradila.
+
+**Simbolička djelotvornost.** Lévi-Straussova analiza kuna šamanskog porođajnog napjeva tvrdila je da iscjeliteljeva moć leži u tome što pati­kom daje **jezik** za iskustvo koje je dotad bilo bezoblično i nepodnošljivo. Kad bezoblična patnja dobije pripovjednu strukturu — likove, uzroke, razrješenje — postaje nešto što se može proći, a ne samo istrpjeti. To je stvarna preobrazba: ne tkiva, nego odnosa između onoga tko pati i njegove patnje. I to je točno ono što pacijent s urednim nalazima ne dobiva.
+
+**Ponovno uključivanje u društveno tijelo.** Tradicionalno liječenje gotovo nikad nije privatno. Ritual saziva obitelj, selo, pretke. Bolest se javno priznaje, uzroci se javno imenuju, obveze se javno preraspodjeljuju, a bolesnik se javno vraća u zajednicu. S obzirom na to da društvena izolacija nosi rizik smrtnosti usporediv s velikim konvencionalnim čimbenicima rizika, to nije mekano. To je jedan od najmoćnijih zahvata dostupnih bilo kojoj medicini, a biomedicina za njega nema šifru postupka.
+
+**Dopuštenje.** Često previđena funkcija: ritual ovlašćuje. Daje čovjeku dopuštenje da stane, da tuguje, da se promijeni, da ode, da bude zbrinut, da odloži ulogu. Mnogi ljudi ne mogu napraviti potrebnu promjenu dok je ne odobri nešto veće od njihove vlastite želje. Rječnikom ove knjige, **ritual je često jedini instrument koji može dosegnuti prvu kariku**, jer je prva karika obično životni aranžman koji čovjek ne osjeća da ima pravo mijenjati.
+
+**Odgovor na smisao.** "Placebo" se koristi na dva nespojiva načina — kao kontrolni uvjet u pokusima i kao pogrda koja znači *ne djeluje zapravo*. Antropolog Daniel Moerman predložio je točniji pojam **odgovor na smisao**: fiziološki i psihološki učinci koje proizvodi značenje koje čovjek pridaje liječenju i njegovu kontekstu. Smisao nije ništa. Smisao je nešto što živčani sustav računa i na što odgovara, uz utvrđeno neurokemijsko posredovanje — sudjelovanje endogenih opioida i dopamina u placebo analgeziji je dokumentirano. Učinak nije umišljen; radi na istoj mašineriji na kojoj bi radio lijek.
+
+I postoji jedna razlika koja razrješava golemu količinu zabune. Odgovori na smisao znatni su za **subjektivne i centralno posredovane ishode** — bol, mučninu, umor, svrbež, raspoloženje, san, nedostatak zraka, simptomatski teret funkcionalnih poremećaja. Slabi su ili ih nema za **objektivne pokazatelje bolesti** — veličinu tumora, bakterijsko opterećenje, cijeljenje prijeloma, prohodnost arterije, virusni titar.
+
+Ta jedna crta objašnjava zašto alternativne metode dobro prolaze na ishodima do kojih je pacijentima najviše stalo, a loše na ishodima koji odlučuju o preživljenju. Objašnjava zašto je svjedočanska literatura puna iskrenih izvještaja o dramatičnom poboljšanju. I objašnjava zašto ti izvještaji ne daju pravo na zaključak da je bolest izliječena.
+
+**Što biomedicina odbacuje.** Odgovor na smisao proizvode čimbenici koje tradicionalno liječenje maksimizira, a suvremena praksa sustavno odbacuje: vrijeme, dodir, objašnjenje koje se drži skupa, ritualna svečanost, terapeutova toplina i uvjerenje, i kontinuitet odnosa. Istraživanja otvorenog placeba — gdje se ljudima izravno kaže da je pripravak neaktivan i oni ipak izvještavaju o poboljšanju — sugeriraju da znatan dio toga ne traži čak ni obmanu.
+
+**Zaključak je neugodan za obje strane.** Biomedicini: odbacuješ stvaran terapijski resurs iz razloga propusnosti, a rast alternativnog sektora znatnim je dijelom tvoj napušteni tržišni udio. Tradicionalnoj i alternativnoj praksi: velik dio onoga što pripisuješ svojoj metodi zapravo pripada kontekstu koji oko nje stvaraš. To nije uvreda — **kontekst je tvoja najbolja tehnologija** — ali znači da ti je teorija o tome zašto to radi vjerojatno pogrešna.
+
+**I granica.** Ništa od ovoga ne opravdava zamjenu. Izvlačenje ne uklanja tumor; povrat duše ne liječi meningitis. Ne opravdava ni komercijalno prisvajanje tih praksi ogoljenih od zajednice, kozmologije, loze i odgovornosti, a to je ono što zapadno tržište uglavnom prodaje — ceremonija bez zajednice u koju se vraćaš nema mehanizam zbog kojeg je radila. Ne ispričava ni sigurnosni vakuum: ceremonije s psihoaktivnim biljkama nose stvaran kardiovaskularni rizik, opasne interakcije sa serotoninergičnim lijekovima, izazivanje psihoze kod ranjivih, i dokumentiran, raširen problem seksualnog i financijskog iskorištavanja od strane neodgovornih praktičara. Tradicionalni konteksti imali su strukture odgovornosti. Tržište povlačenja ih često nema.
+
+> **ZAKLJUČAK — 9. poglavlje.** Ritualno liječenje djeluje kroz prepoznatljive mehanizme: bezobličnoj patnji daje jezik, bolesnika vraća u društveno tijelo i ovlašćuje promjene za koje čovjek nije osjećao da ima pravo. Odgovor na smisao je stvaran i neurokemijski posredovan, i pomiče simptome, a ne pokazatelje bolesti — i upravo zato golemo pomaže, a o izlječenju ne dokazuje ništa.
+
+---
+
+# III. DIO — ISTI OBRAZAC, DRUGDJE
 
 Tvrdnja ovog dijela je da opisana struktura nije činjenica o medicini. To je činjenica o tome kako sustavi zakazuju i kako ljudi reagiraju na zakazivanje. Medicina je samo mjesto gdje se to najjasnije vidi, jer ondje tijelo vodi evidenciju.
 
 ---
 
-## Poglavlje 6. Polje: monokultura i štetnik
+## Poglavlje 10. Polje: monokultura i štetnik
 
 Seljak posadi tisuću hektara jedne sorte pšenice. Kroz nekoliko sezona dolazi štetnik i množi se preko svega viđenog u mješovitom krajoliku. Poprska. Djeluje — te godine. Iduće godine prska više, a godinu poslije štetnik je otporan, a njegovo je mjesto zauzeo drugi štetnik kojega su prije držali grabežljivci koje je prskanje također pobilo.
 
@@ -184,11 +307,11 @@ To je precizan poljoprivredni iskaz kaskade propisivanja — i precizan iskaz nj
 
 To je stvaran oblik argumenta i jači je jer je skroman. Raznolikost nije čarolija. Ona je **osiguranje**, a osiguranje se isplati kupovati razmjerno riziku.
 
-> **ZAKLJUČAK — 6. poglavlje.** Štetnik je simptom; jednoličnost je uzrok. Prskanje je ispravno kad bi se inače izgubila ovosezonska žetva, a bolešću postaje kad postane trajno, jer liječi zadnju kariku i selektira otpornost — poljoprivredno ime za rastuću dozu. Lijek nije bolje oružje nego dizajn u kojem se najezda ne može izgraditi.
+> **ZAKLJUČAK — 10. poglavlje.** Štetnik je simptom; jednoličnost je uzrok. Prskanje je ispravno kad bi se inače izgubila ovosezonska žetva, a bolešću postaje kad postane trajno, jer liječi zadnju kariku i selektira otpornost — poljoprivredno ime za rastuću dozu. Lijek nije bolje oružje nego dizajn u kojem se najezda ne može izgraditi.
 
 ---
 
-## Poglavlje 7. Rijeka: Schauberger i dva gibanja
+## Poglavlje 11. Rijeka: Schauberger i dva gibanja
 
 Viktor Schauberger (1885.–1958.) bio je austrijski šumar koji je život proveo tvrdeći da industrijska civilizacija vodu pokreće naopako. Zaslužuje poglavlje zbog jedne ideje, i zaslužuje pošteno poglavlje jer ostatak njegova rada ne izdrži provjeru.
 
@@ -204,11 +327,11 @@ Uzvodni odgovor je ekološki, onaj za koji se Schauberger zalagao prije stoljeć
 
 **Opći oblik,** i to je dio koji se prenosi posvuda: **eksplozija je brza i proizvodi otpad; implozija je spora i proizvodi red.** Razmicanje sustava kako bi se iz njega izvuklo brzo je i ostavlja toplinu i krhotine. Puštanje sustava da se sam organizira oko vlastitog oblika sporo je i ostavlja strukturu. Svako područje u ovoj knjizi ima obje mogućnosti na raspolaganju.
 
-> **ZAKLJUČAK — 7. poglavlje.** Ispravljanje rijeke ublažava poplavu ovdje izvozeći je nizvodno, a zatim traži sve više zidove — rad na simptomu s rastućom dozom i uništenim signalom. Uzrok je sliv koji više ne može upijati, a lijek je uzvodan i spor. Schaubergerove tvrdnje o energiji nisu dokazane; njegova ekološka intuicija o toku bila je točna, i suvremena obnova rijeka do nje je došla neovisno.
+> **ZAKLJUČAK — 11. poglavlje.** Ispravljanje rijeke ublažava poplavu ovdje izvozeći je nizvodno, a zatim traži sve više zidove — rad na simptomu s rastućom dozom i uništenim signalom. Uzrok je sliv koji više ne može upijati, a lijek je uzvodan i spor. Schaubergerove tvrdnje o energiji nisu dokazane; njegova ekološka intuicija o toku bila je točna, i suvremena obnova rijeka do nje je došla neovisno.
 
 ---
 
-## Poglavlje 8. Granica: migracija kao simptom
+## Poglavlje 12. Granica: migracija kao simptom
 
 Brod pristaje na otok. Sve na njemu je simptom, i sve u političkoj raspravi koja slijedi tiče se simptoma.
 
@@ -240,11 +363,11 @@ A to je upravo poanta o ravnoteži. **Poštena razmjena ostavlja obje strane bog
 
 **Tamna strana ovog argumenta, izrečena otvoreno.** "Bavimo se korijenskim uzrocima" ujedno je najčešći način da se ne učini ništa. Njime se odgađa spašavanje, izbjegavaju obveze sadašnjosti i hitan slučaj pretvara u seminar. 2. poglavlje ovdje vrijedi punom snagom: **kad je čovjek u vodi, izvučeš ga.** Utapanje je smrtonosan simptom; njemu se ne drži predavanje. Rad na uzroku u ovom području mjeri se desetljećima — upravljanje, porezna transparentnost, registri stvarnih vlasnika, uvjeti trgovine, prilagodba klimi — i ništa od toga nikoga ne spašava večeras. Obje polovice načela, ili nijedna.
 
-> **ZAKLJUČAK — 8. poglavlje.** Dolasci su simptom; neživljivost koja je proizvela odlazak je uzrok, a nju manje stvaraju sami resursi, a više institucionalni aranžmani koji odlučuju tko prima njihovu vrijednost. I otvorena i zatvorena pozicija su pozicije o simptomu, i zato rasprava nikad ne završava. Spašavanje je neupitno i trenutno; rad na uzroku traje desetljećima — a "korijenski uzroci" nikad ne smiju postati razlog da se ljudi ostave u vodi.
+> **ZAKLJUČAK — 12. poglavlje.** Dolasci su simptom; neživljivost koja je proizvela odlazak je uzrok, a nju manje stvaraju sami resursi, a više institucionalni aranžmani koji odlučuju tko prima njihovu vrijednost. I otvorena i zatvorena pozicija su pozicije o simptomu, i zato rasprava nikad ne završava. Spašavanje je neupitno i trenutno; rad na uzroku traje desetljećima — a "korijenski uzroci" nikad ne smiju postati razlog da se ljudi ostave u vodi.
 
 ---
 
-## Poglavlje 9. Rat: najteži slučaj
+## Poglavlje 13. Rat: najteži slučaj
 
 Dva rata teku dok se ovo piše, i o oba se obično raspravlja isključivo na razini simptoma: koliko je teritorija uzeto ovaj mjesec, koji su udari razmijenjeni ovaj tjedan, je li primirje izdržalo trideset i dva sata.
 
@@ -266,15 +389,15 @@ Ono što ostaje, i nešto vrijedi, strukturno je opažanje da **nagodba koja se 
 
 I opet 2. poglavlje, bez kojega bi ovo poglavlje bilo bestidno: **kad ljudi ginu, prvo se zaustavlja ubijanje.** Prekid vatre koji ne rješava ništa strukturno i dalje spašava ljude koji su tijekom njega živi. To nije kompromis načela. To je načelo.
 
-> **ZAKLJUČAK — 9. poglavlje.** Udari i crte su simptomi; zakazali aranžmani ispod su uzrok, a nagodba koja se bavi samo borbama proizvodi idući rat. Ali uzroci u ratu su osporavani, a ne mjerljivi, i jezik korijenskih uzroka i sam je standardno opravdanje agresije — stvarna pritužba nikad ne opravdava zločinačko sredstvo. Prvo zaustavi ubijanje; zatim radi strukturni posao, koji je jedino što rat završava umjesto da ga pauzira.
+> **ZAKLJUČAK — 13. poglavlje.** Udari i crte su simptomi; zakazali aranžmani ispod su uzrok, a nagodba koja se bavi samo borbama proizvodi idući rat. Ali uzroci u ratu su osporavani, a ne mjerljivi, i jezik korijenskih uzroka i sam je standardno opravdanje agresije — stvarna pritužba nikad ne opravdava zločinačko sredstvo. Prvo zaustavi ubijanje; zatim radi strukturni posao, koji je jedino što rat završava umjesto da ga pauzira.
 
 ---
 
-# III. DIO — SAM OBRAZAC
+# IV. DIO — SAM OBRAZAC
 
 ---
 
-## Poglavlje 10. Fraktal
+## Poglavlje 14. Fraktal
 
 Postavi pet područja jedno uz drugo i u svakome se pojavljuje ista struktura, promijenjen je samo rječnik.
 
@@ -302,11 +425,11 @@ Postavi pet područja jedno uz drugo i u svakome se pojavljuje ista struktura, p
 
 Tu formulaciju vrijedi držati kao korisnu leću i pošteno je označiti: to je načelo sustavnog mišljenja, a ne moralni zakon. **Priroda nikoga ne kažnjava.** Nema namjere u populaciji štetnika, ni u stopi nezaposlenosti, ni u upaljenom zglobu. Ono što u svakom slučaju postoji jest povratna sprega koja je radila bez obzira je li tko gledao, i posljedice koje su se vratile svom izvoru jer je sustav dovoljno zatvoren da nisu imale kamo drugamo. To je dovoljno. Ne mora biti pravda da bi bilo stvarno.
 
-> **ZAKLJUČAK — 10. poglavlje.** Pet područja koja ne dijele fiziku dijele jednu logiku: simptom izbija ondje gdje je sustav najslabiji, brzo rješenje doista djeluje i zato se ponavlja, doza raste jer uzrok i dalje radi, a gušenje uništava signal koji bi to javio. Eskalacija je univerzalan znak da liječiš simptom.
+> **ZAKLJUČAK — 14. poglavlje.** Pet područja koja ne dijele fiziku dijele jednu logiku: simptom izbija ondje gdje je sustav najslabiji, brzo rješenje doista djeluje i zato se ponavlja, doza raste jer uzrok i dalje radi, a gušenje uništava signal koji bi to javio. Eskalacija je univerzalan znak da liječiš simptom.
 
 ---
 
-## Poglavlje 11. Crta mudrosti: doza, trenutak i ništa suvišno
+## Poglavlje 15. Crta mudrosti: doza, trenutak i ništa suvišno
 
 Sve u ovoj knjizi vodi jednoj tvrdnji, a ona govori o mjeri, a ne o stranama.
 
@@ -334,11 +457,11 @@ Zato najteže pravilo iz 2. poglavlja vrijedi više od ijedne druge rečenice ov
 
 Gušiteljev promašaj je češći. **Puristov promašaj je smrtonosniji po slučaju**, jer gušitelj barem ostavlja pacijenta na životu da se o njemu griješi, dok puristova pogreška tu mogućnost uklanja. Ova knjiga je kritika mišljenja isključivo o simptomu i ne smije se čitati kao dopuštenje da se postane ta druga stvar.
 
-> **ZAKLJUČAK — 11. poglavlje.** Nijedan alat u ovoj knjizi nije pogrešan; svaki postaje razoran u krivoj dozi ili preko svog sata. Ispravno doziranje je tako teško jer se olakšanje doima kao rješenje i uklanja motivaciju za odlazak uzvodno — zato se uvjet izlaska mora zapisati u trenutku kad zahvat počinje. I vječno gušenje i odbijanje svakog gušenja su promašaji, a drugi ubija brže.
+> **ZAKLJUČAK — 15. poglavlje.** Nijedan alat u ovoj knjizi nije pogrešan; svaki postaje razoran u krivoj dozi ili preko svog sata. Ispravno doziranje je tako teško jer se olakšanje doima kao rješenje i uklanja motivaciju za odlazak uzvodno — zato se uvjet izlaska mora zapisati u trenutku kad zahvat počinje. I vječno gušenje i odbijanje svakog gušenja su promašaji, a drugi ubija brže.
 
 ---
 
-## Poglavlje 12. Kako pronaći uzrok: metoda
+## Poglavlje 16. Kako pronaći uzrok: metoda
 
 Praktičan postupak, upotrebljiv u ordinaciji, na farmi, u slivu, u instituciji.
 
@@ -360,7 +483,7 @@ Praktičan postupak, upotrebljiv u ordinaciji, na farmi, u slivu, u instituciji.
 
 **9. Preispitaj.** I zbog napretka i zbog mogućnosti da je izvorna dijagnoza bila pogrešna. Spremnost da se pogriješi nije slabost metode. To jest metoda.
 
-> **ZAKLJUČAK — 12. poglavlje.** Odvoji simptom od priče, stabiliziraj ako je smrtonosno, zatim pitaj što se mora nastaviti događati da simptom potraje i prati to uzvodno do prve karike koju doista možeš dohvatiti. Pazi na rastuću dozu, mijenjaj jednu stvar i mjeri, napiši uvjet izlaska na početku i zadaj cijeni prilagodbe rok.
+> **ZAKLJUČAK — 16. poglavlje.** Odvoji simptom od priče, stabiliziraj ako je smrtonosno, zatim pitaj što se mora nastaviti događati da simptom potraje i prati to uzvodno do prve karike koju doista možeš dohvatiti. Pazi na rastuću dozu, mijenjaj jednu stvar i mjeri, napiši uvjet izlaska na početku i zadaj cijeni prilagodbe rok.
 
 ---
 

@@ -2,7 +2,7 @@
 
 ### A study of one pattern, repeating: in the body, in the field, in the river, at the border, and in war
 
-**Read it:** https://markoboskoauroville.github.io/NATURAL_VS_ALLOPATHIC/
+**Read it:** https://markoboskoauroville.github.io/CAUSE_AND_SYMPTOM/
 
 Bilingual, Croatian and English, with an instant toggle — both versions are
 decrypted together and held in memory, so switching languages is immediate.
@@ -13,8 +13,10 @@ decrypted together and held in memory, so switching languages is immediate.
 > overwhelming, the cause cannot be reached — the symptom must first be made
 > survivable. Only then does cause-work become possible.
 
-Twelve chapters, each ending in a bottom line, tracing that one structure through
-five domains: medicine, agriculture, river engineering, migration, and war.
+Sixteen chapters in four parts, each ending in a bottom line: the principle and the
+triage rule; medicine, and the mechanisms by which cause-work actually operates; the
+same structure in agriculture, river engineering, migration and war; and the pattern
+itself. See `ROADMAP.md` for page count and expansion slots.
 
 ## Files
 
@@ -25,6 +27,7 @@ five domains: medicine, agriculture, river engineering, migration, and war.
 | `ILLUSTRATIONS.md` | Nano Banana prompt book — character sheets and chapter frames |
 | `docs/index.html` | the built site: both languages, encrypted, behind a passphrase |
 | `docs/img/` | illustrations, dropped in as they are generated |
+| `ROADMAP.md` | page count, expansion slots, rules for each round |
 | `build_site.py` | rebuilds the site from the two manuscripts |
 | `page_template.html` | the reading page shell |
 
