@@ -42,7 +42,9 @@ prompt and a slot for each finished image.
 
 ## Rebuilding
 
-    BOOK_PASS='passphrase' python3 build_site.py
+```
+BOOK_PASS='passphrase' python3 build_site.py
+```
 
 Requires `markdown` and `cryptography`. Strips the `<cite>` bookkeeping tags,
 renders both manuscripts, encrypts them together with AES-256-GCM under a key
